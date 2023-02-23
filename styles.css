@@ -1,0 +1,22 @@
+.box {
+  margin-top: 400px;
+  margin-left: 400px;
+  width: 200px;
+  height: 200px;
+  background-color: #f0f;
+  /* position: absolute;
+  bottom: 50%;
+  right: 50%; */
+  /* transform: scale(2); */
+  /* transform: rotate(45deg); */
+  /* transform: skew(-45deg); */
+  /* transform: translate(200px, 100px) scale(2) rotate(45deg); */
+}
+
+.box:hover {
+  /* transform: scale(1.01); */
+  /* transform: translate(1px, 1px); */
+  /* scale: 1.5; */
+  /* rotate: 45deg; */
+  /* translate: 50px 50px; */
+}
